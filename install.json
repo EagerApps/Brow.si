@@ -1,0 +1,21 @@
+{
+  "resources": {
+    "body": [
+      {
+        "type": "script",
+        "src": "body.js"
+      }
+    ]
+  },
+  "options": {
+    "properties": {
+      "sideId": {
+        "order": 1,
+        "title": "Brow.si Site ID",
+        "description": "Get this from the <a class=\"with-inherited-color with-underline\" href=\"https://dashboard.brow.si/dashboard/create\" target=\"_blank\">Brow.si Dashboard</a>.",
+        "type": "string",
+        "placeholder": "T25jHB"
+      }
+    }
+  }
+}
